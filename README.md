@@ -1,5 +1,6 @@
-<h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
+<h2 align="centre"><i><b>💖TECHNO MINDZ BOT-2💝</i></b></h2>
 
+## IMDB AUTO DELETE ROBOT WITHIN 5 MIN
 
 
 <p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="300"></a></p>
@@ -21,7 +22,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/RaviTechnoMindz/autodelete">
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/IMDB_AutoDeleteRobot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -29,11 +30,8 @@
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 
-<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-red.svg?style=for-the-badge&logo=Telegram">
 <a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
-
-## MODAL ROBOT
- * [<i><b>@TMElsaRobot</i></b>](https://t.me/tmelsarobot)
   
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -41,7 +39,7 @@
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help visit Techno Mindz in YouTube
 * `DATABASE_NAME`: Name of the database in MongoDb Cluster0
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
@@ -86,5 +84,5 @@ Made By @TmMainChannel
 
 ## Thanks to 
 
- - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To [Ravinandan](https://github.com/raviTechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/IMDB_AutoDeleteRobot) 
  - Thanks To All Of My Subscribers😊
