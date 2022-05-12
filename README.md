@@ -22,7 +22,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/IMDB_AutoDeleteRobot">
+<a href="https://heroku.com/deploy?template=https://github.com/Flayo112/IMDB_AutoDeleteRobot-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
